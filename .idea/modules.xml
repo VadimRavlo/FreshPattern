@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FreshPattern.iml" filepath="$PROJECT_DIR$/FreshPattern.iml" />                
+      <module fileurl="file://$PROJECT_DIR$/viewholder/viewholder.iml" filepath="$PROJECT_DIR$/viewholder/viewholder.iml" />
+    </modules>
+  </component>
+</project>
